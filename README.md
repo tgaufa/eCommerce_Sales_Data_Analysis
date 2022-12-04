@@ -1,6 +1,4 @@
-# 221204-eCommerce-Sales-Data-Analysis
-
-# ECOMMERCE DATA ANALYSIS
+# 221204 - eCommerce Sales Data Analysis
 
 ## 1. Objective
 - Sales Trend Over the specified period
